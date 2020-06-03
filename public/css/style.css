@@ -616,6 +616,8 @@ body.offcanvas {
   font-size: 16px; }
 
 .services {
+  min-height: 300px;
+  max-height: 300px;
   margin-bottom: 30px;
   padding: 1.5em;
   -webkit-box-shadow: 0px 0px 56px -8px rgba(0, 0, 0, 0.17);
